@@ -2,7 +2,7 @@
 
 ## What's inside?
 
-Inside this repo, you can find web application (made with Django framework) for Pinocchio's Pizzeria, located on Cambridge campus.
+
 
 In this app, you can (**as user**)
 
@@ -38,11 +38,11 @@ Within admin panel, there is possibility of:
 
 This app work as plugin; you can add it to your Django project as app with little effort, like referring url's path.
 
-**If you want see this app "in action", click here -> [YouTube](https://www.youtube.com/watch?v=HmEF-NAifs4&feature=youtu.be)**
+
 
 ## Requirements
 
-All requirements for this app comes from [Poject 3](https://docs.cs50.net/web/2018/x/projects/3/project3.html) of HarvardX CS50W course:
+
 
 * **Menu**: Your web application should support all of the available menu items for Pinnochio’s Pizza & Subs (a popular pizza place in Cambridge). It’s up to you, based on analyzing the menu and the various types of possible ordered items (small vs. large, toppings, additions, etc.) to decide how to construct your models to best represent the information. Add your models to orders/models.py, make the necessary migration files, and apply those migrations.
 * **Adding Items**: Using Django Admin, site administrators (restaurant owners) should be able to add, update, and remove items on the menu. Add all of the items from the Pinnochio’s menu into your database using either the Admin UI or by running Python commands in Django’s shell.
